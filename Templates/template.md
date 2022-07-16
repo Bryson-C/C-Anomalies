@@ -23,7 +23,7 @@ This is the basic template structure &nbsp;
 However some things just are a bit off. &nbsp;
   For example: In the function example templates are required to have an addition operator to work, but nothing is stopping you from using any other value &nbsp;
 
-[Contraints And Concepts^1^](https://en.cppreference.com/w/cpp/language/constraints) can help this ([Here is a good tutorial^2^](https://www.cppstories.com/2021/concepts-intro/)) &nbsp;
+Contraints And Concepts[^1^](https://en.cppreference.com/w/cpp/language/constraints) can help this (Here is a good tutorial[^2^](https://www.cppstories.com/2021/concepts-intro/)) &nbsp;
 
 ### Concepts
 ```C++
