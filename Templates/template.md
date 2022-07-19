@@ -56,7 +56,7 @@ std::ostream& operator<<(std::ostream& os, const int3&x)
 // `print` Function Now Works For `int3`! :)
 
 ```
-We Could Either Pray To A Higher Power Someone Implemented The std::ostream operator &nbsp
+We Could Either Pray To A Higher Power Someone Implemented The std::ostream operator &nbsp;
 
 Alternitavely We Could
 ```C++
