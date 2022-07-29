@@ -1,7 +1,7 @@
-### Unknown Languages
+## Unknown Languages
 #### Here I Will Document Some Strange Laguages I Have Come Across
 
-### 1. Ceylon
+## 1. Ceylon
 
 Ceylon Is Very Similar To Java.
 Like Java It Is Overly Verbose.
@@ -39,7 +39,7 @@ These Variables Give Information About The Executable And Enviornment Such As:
 - And The Process `process`
 
 
-2. Wyvern
+## 2. Wyvern
 
 
 
