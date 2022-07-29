@@ -2,6 +2,7 @@
 #### Here I Will Document Some Strange Laguages I Have Come Across
 
 1. Ceylon
+
 Ceylon Is Very Similar To Java.
 Like Java It Is Overly Verbose.
 It Appears To Not Have A Main Entry Point, Instead The Entry Function Is Set Via The Command Line.
